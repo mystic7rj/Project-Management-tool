@@ -14,7 +14,7 @@ A simple website that will manage the project assigned to other people.
 1. Clone this repository: 
 ```bash 
 
-git clone https://github.com/Trex-Hub/Project-Management-Tool.git
+git clone https://github.com/mystic7rj/Project-Manager-tool
    ```
 2. Open the `index.html` file in your browser.
 
